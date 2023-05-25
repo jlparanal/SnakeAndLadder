@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\fragment_leader_boards.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_leader_boards.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\fragment_user_profile.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\dialog_winner.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\dialog_winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\fragment_leaderboards.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_leaderboards.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\activity_player_names.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_player_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\dialog_player_names.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\dialog_player_names.xml"
+    },
+    {
+        "merged": "ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:/layout/dialog_winner.xml",
+        "source": "ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:/layout/dialog_winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-mergeDebugResources-48:\\layout\\item_winner.xml",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\item_winner.xml"
+    }
+]

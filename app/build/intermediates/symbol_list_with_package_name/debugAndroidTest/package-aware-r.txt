@@ -1,0 +1,3 @@
+ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

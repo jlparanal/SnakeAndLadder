@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_blue_circle.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\blue_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_baseline_user_24.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\baseline_user_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_fragment_leader_boards.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_leader_boards.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice2.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice2.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_dialog_player_names.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\dialog_player_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice5.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice5.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_baseline_leaderboard_24.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\baseline_leaderboard_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice1.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice1.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_activity_player_names.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_player_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_button_design.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_snakeandladder.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\snakeandladder.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice4.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice4.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_dialog_winner.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\dialog_winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_item_winner.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\item_winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_snakesandforest.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\snakesandforest.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_wood.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\wood.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_red_circle.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_snake.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\snake.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_trophy_icon.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\trophy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_header.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_white_circle.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice3.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice3.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_fragment_user_profile.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_snake_and_ladder_game.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\snake_and_ladder_game.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\drawable_dice6.png.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\drawable\\dice6.png"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-merged_res-49:\\layout_fragment_leaderboards.xml.flat",
+        "source": "C:\\Users\\john.paranal_novare\\.gradle\\daemon\\7.5\\ph.stacktrek.novare.snakeandladder.johnlloyd.paranal.snakeandladder.app-main-51:\\layout\\fragment_leaderboards.xml"
+    }
+]
